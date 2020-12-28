@@ -1,0 +1,9 @@
+x=int(input("Number x:"))
+y=int(input("Number y:"))
+z=int(input("Number z:"))
+t=int(input("Number t:"))
+
+a =([x,y],[z,t])
+print("Matrix:",a)
+det_a=(x*t)-(y*z)
+print("Determinant of matrix:",det_a)
