@@ -1,3 +1,4 @@
+Etiketler yolo formatındadır
 0: dur
 1: girilmez
 2: tasit_trafigine_kapali
