@@ -1,5 +1,5 @@
 Etiketler yolo formatındadır
-0: dur 
+0: dur  
 1: girilmez 
 2: tasit_trafigine_kapali
 3: duz_veya_sola
